@@ -1,59 +1,59 @@
-*{
-    font-family: "Oswald", sans-serif;
+* {
+  font-family: "Oswald", sans-serif;
 }
 
-.div1{
-    text-align: center;
-    background-color: #212529;
-    color: white;
-    padding-bottom: 20px;
+.div1 {
+  text-align: center;
+  background-color: #212529;
+  color: white;
+  padding-bottom: 20px;
 }
 
-.h1-1{
-    font-size: 50px;
+.h1-1 {
+  font-size: 50px;
 }
 
-.p-1{
-    font-size: 20px;
+.p-1 {
+  font-size: 20px;
 }
 
-.p-1{
-    font-size: 20px;
+.p-1 {
+  font-size: 20px;
 }
 
-.card-body{
-    margin-top: 10px;
+.card-body {
+  margin-top: 10px;
 }
 
-.card-text{
-    margin-top: 10px; 
+.card-text {
+  margin-top: 10px;
 }
 
-.container2{
-    margin-top: 50px;
+.container2 {
+  margin-top: 50px;
 }
 
-section div{
-    justify-content: space-around;
-    margin-bottom: 30px;
+section div {
+  justify-content: space-around;
+  margin-bottom: 30px;
 }
 
-img{
-    width: 300px;
-    height: 300px;
-    border: 1px solid white;
-    border-radius: 3%;
+img {
+  width: 300px;
+  height: 300px;
+  border: 1px solid white;
+  border-radius: 3%;
 }
 
-.div4{
-    padding-top: 40px;
+.div4 {
+  padding-top: 40px;
 }
 
-footer p{
-    color: #212529;
+footer p {
+  color: #212529;
 }
 
-.negro{
-    color: #212529;
-    text-decoration: none;
+.negro {
+  color: #212529;
+  text-decoration: none;
 }
