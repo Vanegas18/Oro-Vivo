@@ -12,14 +12,12 @@
 
 .div1 {
   position: relative;
-  display: inline-block;
 }
 
 .texto {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
   color: white;
   font-size: 38px;
   font-weight: bold;
@@ -46,8 +44,6 @@
 .div3 {
   margin-top: 100px;
   width: 100%;
-  overflow: hidden;
-  white-space: nowrap;
 }
 
 .div4 {
